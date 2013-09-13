@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
  * 
  * Note: this class is NOT meant as an example of good coding style.
  * It also has a few bugs lurking in it, because we're using it as an example
- * of debugging.
+ * of debugging. Long live Rob Miller.
  */
 public class MonkeyShakespeare {
 
